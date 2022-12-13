@@ -1,1 +1,2 @@
-# crimes-in-chicago
+# Crimes in Chicago
+This work aims to uncover spatial and temporal crime patterns in Chicago. The study of spatial and temporal crime patterns is essential since it helps advance academic understanding of criminal activities and provides insight into criminal events, which benefits optimizing police presence and public safety. This work focuses on investigating and visualizing crime patterns in Chicago based on the unit of community. How do spatial crime patterns differ across crime types, and how do spatial crime patterns change across different time scales (e.g., day vs. night, month, year)? The notebook walks through the whole project from collecting data to generating results.
